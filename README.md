@@ -1,2 +1,2 @@
-# random-tutorials
+# Tutorials and exercises
 Collection of examples and exercises
